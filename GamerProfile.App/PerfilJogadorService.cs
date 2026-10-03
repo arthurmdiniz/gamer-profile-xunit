@@ -14,7 +14,7 @@ public class PerfilJogadorService
 
 	public int CalcularXPTotal(int xpFase1, int xpFase2)
 	{
-		return xpFase1 + xpFase2 +100;
+		return xpFase1 + xpFase2 + 100;
 	}
 
 	public bool PodeJogarPartidaRanqueada(int nivelJogador)
